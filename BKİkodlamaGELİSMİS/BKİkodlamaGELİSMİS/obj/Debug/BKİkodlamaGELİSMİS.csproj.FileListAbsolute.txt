@@ -1,0 +1,21 @@
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\bin\Debug\BKİkodlamaGELİSMİS.exe.config
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\bin\Debug\BKİkodlamaGELİSMİS.exe
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\bin\Debug\BKİkodlamaGELİSMİS.pdb
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.AssemblyReference.cache
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.Form1.resources
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.Properties.Resources.resources
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.GenerateResource.cache
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.CoreCompileInputs.cache
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.exe
+K:\Efe Yılmaz\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.pdb
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\bin\Debug\BKİkodlamaGELİSMİS.exe.config
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\bin\Debug\BKİkodlamaGELİSMİS.exe
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\bin\Debug\BKİkodlamaGELİSMİS.pdb
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.AssemblyReference.cache
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.SuggestedBindingRedirects.cache
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.Form1.resources
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.Properties.Resources.resources
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.GenerateResource.cache
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.csproj.CoreCompileInputs.cache
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.exe
+D:\Yazılım\C# Form Çalışmaları\BKİkodlamaGELİSMİS\BKİkodlamaGELİSMİS\obj\Debug\BKİkodlamaGELİSMİS.pdb
